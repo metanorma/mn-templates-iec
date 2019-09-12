@@ -1,0 +1,27 @@
+= IEC Metanorma Templates
+
+This GitHub repository contains templates for IEC documents.
+
+Note that the Apache license applies only to the template.
+Once a document has been created
+the license must reflect the IEC document license.
+
+This repository is used by the `metanorma new` command to create new documents.
+
+== Templates included
+
+These templates are provided in this template repository:
+
+`international-standard`::
+  (`doctype == 'international-standard'`)
+
+`iec-rice`::
+  The IEC Rice document
+
+These ``doctype``s aren't supported yet:
+
+* `technical-specification`
+* `technical-report`
+* `publicly-available-specification`
+* `guide`
+* `interpretation-sheet`

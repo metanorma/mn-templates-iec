@@ -1,0 +1,49 @@
+= ISO Codes for timekeeping systems
+:docnumber: 99999
+:tc-document-number: 9999
+:ref-docnumber: IEC 62656-8 ED1
+:partnumber: 8
+:edition: 2
+:revdate: 2029-02-28
+:copyright-year: 2029
+:language: en
+:unchangeddate: 2039
+:title-intro-en: Standardized product ontology register and transfer by data parcels
+:title-part-en: Part 8: Web service interface for data parcels
+:title-intro-fr: Registre d'ontologies de produits normalisés et transfert par parcelles de données
+:title-part-fr: Partie 8: Interface de service Web pour paquets de données
+:doctype: international-standard
+:docstage: 00
+:docsubstage: 00
+:technical-committee-type: TC
+:technical-committee-number: 3
+:technical-committee: Information structures and elements, identification and marking principles, documentation and graphical symbols
+:technical-committee-type: SC
+:subcommittee-number: 3D
+:subcommittee: Product properties and classes and their identification
+:workgroup-type: PT
+:workgroup-number: 62656-8
+:workgroup: Model-extension and interface for IEC CDD
+:language: en
+:draft:
+:toc:
+:stem:
+:xrefstyle: short
+:imagesdir: images
+:docfile: document.adoc
+:mn-document-class: iec
+:mn-output-extensions: xml,doc,html,pdf,rxl
+:local-cache-only:
+:data-uri-image:
+
+include::sections/00-foreword.adoc[]
+include::sections/00-intro.adoc[]
+include::sections/01-scope.adoc[]
+include::sections/02-norm-refs.adoc[]
+include::sections/03-termsdef.adoc[]
+include::sections/04-content.adoc[]
+
+include::sections/a1-annex.adoc[]
+include::sections/a2-annex.adoc[]
+
+include::sections/zz-references.adoc[]

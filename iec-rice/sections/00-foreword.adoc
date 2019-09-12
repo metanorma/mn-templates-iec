@@ -1,0 +1,43 @@
+[[foreword]]
+.Foreword
+International Standard IEC {docnumber} has been prepared by subcommittee {subcommittee-number}: {subcommittee}, of IEC technical committee {technical-committee-number}:{technical-committee}.
+
+This second edition cancels and replaces the first edition published in 2009. This edition constitutes a technical revision.
+
+This edition includes the following significant technical changes with respect to the previous edition:
+
+. updated normative references;
+. deletion of 4.3.
+
+The text of this International Standard is based on the following documents:
+
+|===
+|FDIS	|Report on voting
+
+|XX/XX/FDIS	|XX/XX/RVD
+|===
+
+Full information on the voting for the approval of this International Standard can be found in the report on voting indicated in the above table.
+
+This document has been drafted in accordance with the ISO/IEC Directives, Part 2.
+
+The committee has decided that the contents of this document will remain unchanged until the stability date indicated on the IEC website under "http://webstore.iec.ch" in the data related to the specific document. At this date, the document will be
+
+*	reconfirmed,
+*	withdrawn,
+*	replaced by a revised edition, or
+*	amended.
+
+[WARNING]
+====
+The National Committees are requested to note that for this document the stability date is {unchangeddate}.
+
+THIS TEXT IS INCLUDED FOR THE INFORMATION OF THE NATIONAL COMMITTEES AND WILL BE DELETED AT THE PUBLICATION STAGE.
+====
+
+[reviewer=ISO,date=2017-01-01,from=foreword,to=foreword]
+****
+A Foreword shall appear in each document. The generic text is shown here. It does not contain requirements, recommendations or permissions.
+
+For further information on the Foreword, see *ISO/IEC Directives, Part 2, 2016, Clause 12.*
+****
