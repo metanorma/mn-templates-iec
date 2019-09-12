@@ -1,5 +1,7 @@
 = IEC Metanorma Templates
 
+image:https://travis-ci.com/metanorma/mn-templates-iec.svg?branch=master["Build Status", link="https://travis-ci.com/metanorma/mn-templates-iec"]
+
 This GitHub repository contains templates for IEC documents.
 
 Note that the Apache license applies only to the template.
