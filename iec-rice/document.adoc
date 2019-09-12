@@ -36,7 +36,7 @@
 :imagesdir: images
 :docfile: document.adoc
 :mn-document-class: iec
-:mn-output-extensions: xml,doc,html,pdf,rxl
+:mn-output-extensions: xml,doc,html,rxl
 :local-cache-only:
 :data-uri-image:
 

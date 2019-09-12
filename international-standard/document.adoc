@@ -1,4 +1,4 @@
-= ISO Codes for timekeeping systems
+= IEC Standardized product ontology register and transfer by data parcels
 :docnumber: 99999
 :tc-document-number: 9999
 :ref-docnumber: IEC 62656-8 ED1
@@ -32,7 +32,7 @@
 :imagesdir: images
 :docfile: document.adoc
 :mn-document-class: iec
-:mn-output-extensions: xml,doc,html,pdf,rxl
+:mn-output-extensions: xml,doc,html,rxl
 :local-cache-only:
 :data-uri-image:
 
