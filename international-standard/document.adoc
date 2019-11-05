@@ -1,6 +1,9 @@
 = IEC Standardized product ontology register and transfer by data parcels
+:comment: ### See comment 1 below
 :docnumber: 99999
+:comment: ### Document number assigned by the Technical committee. See comment 1
 :tc-document-number: 9999
+:comment: ### Sets complete document number reference
 :ref-docnumber: IEC 62656-8 ED1
 :partnumber: 8
 :edition: 2
@@ -35,6 +38,23 @@
 :mn-output-extensions: xml,doc,html,rxl
 :local-cache-only:
 :data-uri-image:
+
+////
+Comment 1: DOCUMENT NUMBER (:docnumber:)
+
+Sequence of digits that gives the document number value included in the document identifier, for example: 
+
+99999 (to author ISO-99999)
+8000 (to author ISO-8000), 
+22745 (to author ISO-22745), 
+29002 (to author ISO-29002)
+////
+
+
+
+
+
+
 
 include::sections/00-foreword.adoc[]
 include::sections/00-intro.adoc[]
