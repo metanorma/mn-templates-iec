@@ -1,4 +1,5 @@
 
+// If no obligation value is set, the annex is presumed to be normative
 [[annex-1]]
 [appendix]
 == Annex One
