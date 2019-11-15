@@ -13,7 +13,8 @@
 :revdate: 2029-02-28
 :comment: ### Year of copyright
 :copyright-year: 2029
-:unchangeddate: 2039
+:comment: ### Date on which the standard was last renewed without any changes in content.
+:unchanged-date: 2039
 :comment: ### Document title (mandatory). See comment 2 below
 :title-intro-en: Standardized product ontology register and transfer by data parcels
 :title-part-en: Web service interface for data parcels
