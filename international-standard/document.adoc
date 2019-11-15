@@ -17,7 +17,9 @@
 :unchanged-date: 2039
 :comment: ### Document title (mandatory). See comment 2 below
 :title-intro-en: Standardized product ontology register and transfer by data parcels
+:title-main-en: 
 :title-part-en: Web service interface for data parcels
+:title-main-fr: 
 :title-intro-fr: Registre d'ontologies de produits normalisés et transfert par parcelles de données
 :title-part-fr: Interface de service Web pour paquets de données
 :comment: ### Document type of publication. See comment 3 below
@@ -45,6 +47,14 @@
 :language: en
 :comment: ### Draft status, enables display of reviewer notes; remove if final document
 :draft:
+:comment: ### See comment 6 below
+:library-ics: 11.060
+:comment: ### Iteration of a stage, in case there have been multiple drafts (e.g. 2 on a CD: this is the second iteration through the CD stage).
+:iteration: 2
+:comment: ### Date on which the standard was published (distributed by the publisher).
+:published-date: 2018-10-14
+:comment: ### Date on which the unpublished standard was last circulated officially as a preprint. For standards, this is associated with the latest transition to a formally defined preparation stage, such as Working Draft or Committee Draft.
+:circulated-date: 2018-10-04
 :comment: ### Directory in which images are located: all local image file locations are prefixed with this directory. (Optional.)
 :imagesdir: images
 :comment: ### Name of this AsciiDoc file
@@ -139,6 +149,14 @@ Comment 5: TECHNICAL COMMITTEE TYPE (:technical-committee-type:)
 Type of the relevant technical committee. Defaults to TC if not supplied. 
 
 Values: TC, PC, JTC, JPC.
+////
+
+////
+Comment 6: ICS NUMBER (:library-ics:)
+
+ICS (International Categorization for Standards) number for the standard.
+
+There may be more than one ICS for a document; if so, they should be comma-delimited. (The ICS identifier is added to the document metadata, but may not be visible in the resulting document, depending on Metanorma flavor.)
 ////
 
 
