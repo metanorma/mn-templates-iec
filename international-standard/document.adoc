@@ -6,7 +6,7 @@
 :comment: ### Sets complete document number reference
 :ref-docnumber: IEC 62656-8 ED1
 :comment: ###  IEC document part number. It can follow both "part" or "part-subpart" structure. (Optional.)
-:partnumber: 8
+:partnumber: 8-1
 :comment: ### Document edition
 :edition: 1
 :comment: ### Last update date
@@ -16,11 +16,11 @@
 :comment: ### Date on which the standard was last renewed without any changes in content.
 :unchanged-date: 2039
 :comment: ### Document title (mandatory). See comment 2 below
-:title-intro-en: Standardized product ontology register and transfer by data parcels
-:title-main-en: 
+:title-intro-en: 
+:title-main-en: Standardized product ontology register and transfer by data parcels
 :title-part-en: Web service interface for data parcels
-:title-main-fr: 
-:title-intro-fr: Registre d'ontologies de produits normalisés et transfert par parcelles de données
+:title-intro-fr: 
+:title-main-fr: Registre d'ontologies de produits normalisés et transfert par parcelles de données
 :title-part-fr: Interface de service Web pour paquets de données
 :comment: ### Document type of publication. See comment 3 below
 :doctype: international-standard
@@ -61,7 +61,7 @@
 :docfile: document.adoc
 :comment: ### Metanorma flavour: applies to all ISO documents
 :mn-document-class: iec
-:comment: ### Desired output formats. Metanorma-IEC supports the following output extension values: xml (MN XML), html (ISO-style HTML), html_alt (pretty HTML), doc (Word .doc)
+:comment: ### Desired output formats. Metanorma-IEC supports the following output extension values: xml (MN XML), html (ISO-style HTML), doc (Word .doc)
 :mn-output-extensions: xml,doc,html,rxl
 :local-cache-only:
 :data-uri-image:
