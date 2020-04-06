@@ -1,0 +1,22 @@
+
+[[terms]]
+[source=ISO8601-1]
+== Terms and definitions
+
+[[term-script]]
+=== script
+
+particular graphic representation or class of representations of a set of characters used to write one or more languages
+
+[.source]
+<<ISO5127,clause="3.1.6.02">>
+
+
+[[term-code]]
+=== code
+
+data representation in different forms according to a pre-established set of rules
+
+[.source]
+<<ISO639-2>>
+
