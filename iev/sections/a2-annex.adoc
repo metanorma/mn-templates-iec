@@ -1,9 +1,0 @@
-
-[[annex-2]]
-[appendix,obligation="informative"]
-== Annex Two
-
-[format="csv",options="header"]
-|===
-include::../data/codes.csv[]
-|===

@@ -2,6 +2,5 @@
 [bibliography]
 == Normative References
 
-* [[[ISO5127,ISO 5127]]], _Information and documentation — Foundation and vocabulary_
+// It is necessary to include the Normative references clause for conformity with the ISO/IEC Directives, Part 2. However, since the IEV is managed as a database, cite any normative reference in the terminological entry concerned. Do not add any normative references here.
 
-* [[[ISO15924,ISO 15924]]], _Information and documentation – Codes for the representation of names of scripts_

@@ -1,22 +1,38 @@
 
+// The requirements for IEV terminological entries are specified in the IEC Supplement to the ISO/IEC Directives, Annex SK.
+Further information can be found at www.iec.ch/standardsdev/resources/draftingpublications/writing_editing/directives/terms_definitions.htm
+
+
 [[terms]]
 [source=ISO8601-1]
 == Terms and definitions
 
 [[term-script]]
-=== script
+=== English preferred term
 
-particular graphic representation or class of representations of a set of characters used to write one or more languages
+admitted:[English admitted term]
+
+deprecated:[English deprecated term]
+
+definition written as a descriptive statement that can replace the term in context
+
+non-verbal representation of the concept (e.g. mathematical formula or illustration)
+
+====
+Information that illustrates the concept.
+
+NOTE: Additional information, e.g. units, provisions relating to the use of the term.
 
 [.source]
-<<ISO5127,clause="3.1.6.02">>
+<<ISO5127,clause="3.1.6.02">>, Description of modification
 
 
-[[term-code]]
-=== code
+////
+not modelled yet:
 
-data representation in different forms according to a pre-established set of rules
+* symbols for the concept
+* specific use attributes (for each of preferred, admitted, deprecated terms)
+* French equivalent
+* equivalent term in additional IEV language
 
-[.source]
-<<ISO639-2>>
-
+////

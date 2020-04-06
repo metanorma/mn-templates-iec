@@ -2,6 +2,17 @@
 :sectnums:
 == Scope
 
-This document provides ...
+// Replace the italicised text. Delete the second sentence ("This new edition...") if not applicable.
+
+This part of IEC 60050 gives the general terminology used in _xxxxxxxxx xxxxxxxxx, as well as general terms pertaining to specific applications and associated technologies._ This new edition reviews and complements the previous one. It has the status of a horizontal standard in accordance with IEC Guide 108, _Guidelines for ensuring the coherency of IEC publications – Application of horizontal standards._
+
+// Delete the following text that does not apply.  The full requirements for the Scope are described in the ISO/IEC Directives, Part 2:2011, 6.2.1.
+
+This terminology is consistent with the terminology developed in the other specialized parts of the IEV.
+
+This horizontal standard is primarily intended for use by technical committees in the preparation of standards in accordance with the principles laid down in IEC Guide 108.
+
+One of the responsibilities of a technical committee is, wherever applicable, to make use of horizontal standards in the preparation of its publications.
+
 
 

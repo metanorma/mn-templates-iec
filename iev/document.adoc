@@ -2,7 +2,7 @@
 :comment: ### Do not edit docnumber
 :docnumber: 60050
 :tc-document-number: 9999
-:partnumber: 192
+:partnumber: 871
 :edition: 2
 :revdate: 2029-02-28
 :copyright-year: 2029
@@ -11,8 +11,8 @@
 :comment: ### Do not edit title-main-*
 :title-main-en: International Electrotechnical Vocabulary
 :title-main-fr: Vocabulaire Électrotechnique International
-:title-part-en: Dependability
-:title-part-fr: Sûreté de fonctinnement
+:title-part-en: Active assisted living (AAL)
+:title-part-fr: Assistance à l'autonomie à domicile (AAD)
 :comment: ### Do not edit
 :doctype: international-standard
 :docstage: 00
@@ -23,9 +23,10 @@
 :technical-committee: Terminology
 :comment: ### technical commmitee 2 is the body working "under the responsibility of" TC 1
 :technical-committee2-type: TC
-:technical-committee2-number: 14
-:technical-committee2: Terminology
+:technical-committee2-number: SyC AAL
+:technical-committee2: Active Assisted Living
 :language: en
+:library-ics: 01.040.11, 01.040.29, 11.020.10
 :draft:
 :toc:
 :stem:
@@ -42,9 +43,3 @@ include::sections/00-intro.adoc[]
 include::sections/01-scope.adoc[]
 include::sections/02-norm-refs.adoc[]
 include::sections/03-termsdef.adoc[]
-include::sections/04-content.adoc[]
-
-include::sections/a1-annex.adoc[]
-include::sections/a2-annex.adoc[]
-
-include::sections/zz-references.adoc[]
