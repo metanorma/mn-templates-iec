@@ -1,6 +1,6 @@
 [[foreword]]
 .Foreword
-International Standard IEC {docnumber} has been prepared by subcommittee {subcommittee-number}: {subcommittee}, of IEC technical committee {technical-committee-number}:{technical-committee}.
+International Standard IEC {docnumber} has been prepared by subcommittee {subcommittee-number}: {subcommittee}, of IEC technical committee {technical-committee-number}: {technical-committee}.
 
 This second edition cancels and replaces the first edition published in 2009. This edition constitutes a technical revision.
 

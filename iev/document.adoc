@@ -1,28 +1,30 @@
 = IEC Standardized product ontology register and transfer by data parcels
-:docnumber: 99999
+:comment: ### Do not edit docnumber
+:docnumber: 60050
 :tc-document-number: 9999
-:partnumber: 8
+:partnumber: 192
 :edition: 2
 :revdate: 2029-02-28
 :copyright-year: 2029
 :language: en
 :unchangeddate: 2039
-:title-main-en: Standardized product ontology register and transfer by data parcels
-:title-part-en: Web service interface for data parcels
-:title-main-fr: Registre d'ontologies de produits normalisés et transfert par parcelles de données
-:title-part-fr: Interface de service Web pour paquets de données
+:comment: ### Do not edit title-main-*
+:title-main-en: International Electrotechnical Vocabulary
+:title-main-fr: Vocabulaire Électrotechnique International
+:title-part-en: Dependability
+:title-part-fr: Sûreté de fonctinnement
+:comment: ### Do not edit
 :doctype: international-standard
 :docstage: 00
 :docsubstage: 00
+:comment: ### Do not edit technical-committee-*
 :technical-committee-type: TC
-:technical-committee-number: 3
-:technical-committee: Information structures and elements, identification and marking principles, documentation and graphical symbols
-:subcommittee-type: SC
-:subcommittee-number: 3D
-:subcommittee: Product properties and classes and their identification
-:workgroup-type: PT
-:workgroup-number: 62656-8
-:workgroup: Model-extension and interface for IEC CDD
+:technical-committee-number: 14
+:technical-committee: Terminology
+:comment: ### technical commmitee 2 is the body working "under the responsibility of" TC 1
+:technical-committee2-type: TC
+:technical-committee2-number: 14
+:technical-committee2: Terminology
 :language: en
 :draft:
 :toc:
