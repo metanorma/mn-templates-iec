@@ -9,11 +9,19 @@
 === General
 
 [[en-term-script]]
+==== English preferred term
+
+alt:[English admitted term]
+
+deprecated:[English deprecated term]
+
+////
 ==== English preferred term, <specific use> attributes
 
-admitted:[English admitted term], <specific use> attributes
+alt:[English admitted term], <specific use> attributes
 
 deprecated:[English deprecated term], <specific use> attributes
+////
 
 definition written as a descriptive statement that can replace the term in context
 
@@ -28,12 +36,13 @@ NOTE: Additional information, e.g. units, provisions relating to the use of the 
 [.source]
 <<ISO5127,clause="3.1.6.02">>, Description of modification
 
+////
 
 [[fr-term-script]]
 [language=fr]
 ==== terme française privilégié, <utilisation spécifique> attributs
 
-admitted:[terme française toléré], <utilisation spécifique> attributs
+alt:[terme française toléré], <utilisation spécifique> attributs
 
 deprecated:[terme française déconseillé], <utilisation spécifique> attributs
 
@@ -58,7 +67,7 @@ NOTE: Information supplémentaire, p.ex. unités, exigences relatives à l’uti
 [[ru-term-script]]
 ==== эквивалентный термин на дополнительном языке IEV
 
-
+////
 
 ////
 not modelled yet:
