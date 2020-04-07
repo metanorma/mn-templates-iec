@@ -1,6 +1,6 @@
 [[foreword]]
 .Foreword
-International Standard IEC {docnumber}-{partnumber} has been prepared by technical committee {technical-committee2-number}: {technical-committee2}, of IEC technical committee {technical-committee-number}: {technical-committee}.
+International Standard IEC {docnumber}-{partnumber} has been prepared by IEC technical committee {technical-committee2-number}: {technical-committee2}, of IEC technical committee {technical-committee-number}: {technical-committee}.
 
 // In the case of a new edition replacing a previous edition, complete the following paragraph. In the case of a first edition, delete it, as it does not apply.
 
@@ -8,6 +8,7 @@ This xxxxxxxxxx edition cancels and replaces the xxxxxxxxxx edition published in
 
 The text of this standard is based on the following documents:
 
+[%unnumbered]
 |===
 |FDIS	|Report on voting
 
