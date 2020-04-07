@@ -6,8 +6,10 @@
 [[terms]]
 == Terms and definitions
 
+=== General
+
 [[en-term-script]]
-=== English preferred term, <specific use> attributes
+==== English preferred term, <specific use> attributes
 
 admitted:[English admitted term], <specific use> attributes
 
@@ -29,7 +31,7 @@ NOTE: Additional information, e.g. units, provisions relating to the use of the 
 
 [[fr-term-script]]
 [language=fr]
-=== terme française privilégié, <utilisation spécifique> attributs
+==== terme française privilégié, <utilisation spécifique> attributs
 
 admitted:[terme française toléré], <utilisation spécifique> attributs
 
@@ -50,11 +52,11 @@ NOTE: Information supplémentaire, p.ex. unités, exigences relatives à l’uti
 
 [language=de]
 [[de-term-script]]
-=== äquivalenter Begriff in zusätzlicher IEV-Sprache
+==== äquivalenter Begriff in zusätzlicher IEV-Sprache
 
 [language=ru]
 [[ru-term-script]]
-=== эквивалентный термин на дополнительном языке IEV
+==== эквивалентный термин на дополнительном языке IEV
 
 
 
