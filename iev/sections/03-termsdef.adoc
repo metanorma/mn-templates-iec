@@ -15,6 +15,8 @@ alt:[English admitted term]
 
 deprecated:[English deprecated term]
 
+domain:[specific use]
+
 ////
 ==== English preferred term, <specific use> attributes
 
@@ -75,7 +77,8 @@ NOTE: Information supplémentaire, p.ex. unités, exigences relatives à l’uti
 not modelled yet:
 
 * symbols for the concept
-* specific use attributes (for each of preferred, admitted, deprecated terms)
+* attributes (for each of preferred, admitted, deprecated terms)
+* putting in domain as speciifc usage under <usage>, assuming it to repeat for each term
 * French equivalent
 * equivalent term in additional IEV language
 
