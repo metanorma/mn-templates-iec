@@ -25,7 +25,9 @@ deprecated:[English deprecated term], <specific use> attributes
 
 definition written as a descriptive statement that can replace the term in context
 
-non-verbal representation of the concept (e.g. mathematical formula or illustration)
+// non-verbal representation of the concept (e.g. mathematical formula or illustration)
+
+stem:[bar U(t_1, t_2)]
 
 ====
 Information that illustrates the concept.
