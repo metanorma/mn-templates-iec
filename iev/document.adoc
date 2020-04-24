@@ -1,0 +1,46 @@
+= IEC Standardized product ontology register and transfer by data parcels
+:comment: ### Do not edit docnumber
+:docnumber: 60050
+:tc-document-number: 9999
+:partnumber: 871
+:edition: 2
+:revdate: 2029-02-28
+:copyright-year: 2029
+:language: en
+:unchangeddate: 2039
+:comment: ### Do not edit title-main-*
+:title-main-en: International Electrotechnical Vocabulary
+:title-main-fr: Vocabulaire Électrotechnique International
+:title-part-en: Active assisted living (AAL)
+:title-part-fr: Assistance à l'autonomie à domicile (AAD)
+:comment: ### Do not edit
+:doctype: international-standard
+:docstage: 00
+:docsubstage: 00
+:comment: ### Do not edit technical-committee-*
+:technical-committee-type: TC
+:technical-committee-number: 1
+:technical-committee: Terminology
+:comment: ### technical commmitee 2 is the body working "under the responsibility of" TC 1
+:technical-committee2-type: TC
+:technical-committee2-number: SyC AAL
+:technical-committee2: Active Assisted Living
+:language: en
+:library-ics: 01.040.11, 01.040.29, 11.020.10
+:draft:
+:toc:
+:stem:
+:xrefstyle: short
+:imagesdir: images
+:docfile: document.adoc
+:mn-document-class: iec
+:mn-output-extensions: xml,doc,html,rxl
+:local-cache-only:
+:data-uri-image:
+
+include::sections/00-foreword.adoc[]
+include::sections/00-intro.adoc[]
+include::sections/01-scope.adoc[]
+include::sections/02-norm-refs.adoc[]
+include::sections/03-termsdef.adoc[]
+include::sections/zz-references.adoc[]

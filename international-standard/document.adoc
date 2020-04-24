@@ -16,13 +16,12 @@
 :comment: ### Date on which the standard was last renewed without any changes in content.
 :unchanged-date: 2039
 :comment: ### Document title (mandatory). See comment 2 below
-:title-intro-en: 
 :title-main-en: Standardized product ontology register and transfer by data parcels
 :title-part-en: Web service interface for data parcels
-:title-intro-fr: 
 :title-main-fr: Registre d'ontologies de produits normalisés et transfert par parcelles de données
 :title-part-fr: Interface de service Web pour paquets de données
 :comment: ### Document type of publication. See comment 3 below
+:language: en
 :doctype: international-standard
 :comment: ### See comment 4 below
 :docstage: 00
@@ -33,6 +32,8 @@
 :technical-committee-number: 3
 :comment: ### Name of the relevant IEC technical committee (mandatory)
 :technical-committee: Information structures and elements, identification and marking principles, documentation and graphical symbols
+:comment: ### Type of the relevant IEC subcommittee. (Omit if not applicable.)
+:subcommittee-type: SC
 :comment: ### Number of the relevant IEC subcommittee. (Omit if not applicable.)
 :subcommittee-number: 3D
 :comment: ### Name of the relevant IEC subcommittee. (Omit if not applicable.)
@@ -161,16 +162,20 @@ There may be more than one ICS for a document; if so, they should be comma-delim
 
 
 
-
-
 include::sections/00-foreword.adoc[]
+
 include::sections/00-intro.adoc[]
+
 include::sections/01-scope.adoc[]
+
 include::sections/02-norm-refs.adoc[]
+
 include::sections/03-termsdef.adoc[]
+
 include::sections/04-content.adoc[]
 
 include::sections/a1-annex.adoc[]
+
 include::sections/a2-annex.adoc[]
 
 include::sections/zz-references.adoc[]
