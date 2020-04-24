@@ -1,48 +1,181 @@
 = IEC Standardized product ontology register and transfer by data parcels
+:comment: ### See comment 1 below
 :docnumber: 99999
-:tc-document-number: 9999
-:partnumber: 8
-:edition: 2
+:comment: ### This is the N-document number assigned within the IEC/TC, SC or WG. This number is only relevant within the scope of its assignment for tracking purposes (optional)
+:tc-docnumber: 9999
+:comment: ### Sets complete document number reference
+:ref-docnumber: IEC 62656-8 ED1
+:comment: ###  IEC document part number. It can follow both "part" or "part-subpart" structure. (Optional.)
+:partnumber: 8-1
+:comment: ### Document edition
+:edition: 1
+:comment: ### Last update date
 :revdate: 2029-02-28
+:comment: ### Year of copyright
 :copyright-year: 2029
-:language: en
-:unchangeddate: 2039
+:comment: ### Date on which the standard was last renewed without any changes in content.
+:unchanged-date: 2039
+:comment: ### Document title (mandatory). See comment 2 below
 :title-main-en: Standardized product ontology register and transfer by data parcels
 :title-part-en: Web service interface for data parcels
 :title-main-fr: Registre d'ontologies de produits normalisés et transfert par parcelles de données
 :title-part-fr: Interface de service Web pour paquets de données
+:comment: ### Document type of publication. See comment 3 below
+:language: en
 :doctype: international-standard
+:comment: ### See comment 4 below
 :docstage: 00
 :docsubstage: 00
+:comment: ### See comment 5 below
 :technical-committee-type: TC
+:comment: ### Number of the relevant IEC subcommittee
 :technical-committee-number: 3
+:comment: ### Name of the relevant IEC technical committee (mandatory)
 :technical-committee: Information structures and elements, identification and marking principles, documentation and graphical symbols
+:comment: ### Type of the relevant IEC subcommittee. (Omit if not applicable.)
 :subcommittee-type: SC
+:comment: ### Number of the relevant IEC subcommittee. (Omit if not applicable.)
 :subcommittee-number: 3D
+:comment: ### Name of the relevant IEC subcommittee. (Omit if not applicable.)
 :subcommittee: Product properties and classes and their identification
+:comment: ### Type of the relevant IEC workgroup. Defaults to WG if not supplied. Example values: JWG, JAG, AG (advisory group), AHG, SWG, SG, MA (maintenance agency), CORG, JCG, CAG
 :workgroup-type: PT
+:comment: ### Number of the relevant IEC workgroup
 :workgroup-number: 62656-8
+:comment: ### Name of the relevant IEC workgroup
 :workgroup: Model-extension and interface for IEC CDD
+:comment: ### Document language. (Two values are permitted: en, fr.)
 :language: en
+:comment: ### Draft status, enables display of reviewer notes; remove if final document
 :draft:
-:toc:
-:stem:
-:xrefstyle: short
+:comment: ### See comment 6 below
+:library-ics: 11.060
+:comment: ### Iteration of a stage, in case there have been multiple drafts (e.g. 2 on a CD: this is the second iteration through the CD stage).
+:iteration: 2
+:comment: ### Date on which the standard was published (distributed by the publisher).
+:published-date: 2018-10-14
+:comment: ### Date on which the unpublished standard was last circulated officially as a preprint. For standards, this is associated with the latest transition to a formally defined preparation stage, such as Working Draft or Committee Draft.
+:circulated-date: 2018-10-04
+:comment: ### Directory in which images are located: all local image file locations are prefixed with this directory. (Optional.)
 :imagesdir: images
+:comment: ### Name of this AsciiDoc file
 :docfile: document.adoc
+:comment: ### Metanorma flavour: applies to all ISO documents
 :mn-document-class: iec
+:comment: ### Desired output formats. Metanorma-IEC supports the following output extension values: xml (MN XML), html (ISO-style HTML), doc (Word .doc)
 :mn-output-extensions: xml,doc,html,rxl
 :local-cache-only:
 :data-uri-image:
 
+////
+Comment 1: DOCUMENT NUMBER (:docnumber:)
+
+Sequence of digits that gives the document number value included in the document identifier, for example: 
+
+99999 (to author IEC-99999)
+8000 (to author IEC-8000), 
+22745 (to author IEC-22745), 
+29002 (to author IEC-29002)
+////
+
+////
+Comment 2: DOCUMENT TITLE (mandatory)
+
+The document title in Metanorma may be composed by three attributes from which two are optional and one mandatory. These attributtes are used instead of the metanorma-standoc `:title:` attribute and the default AsciiDoc title (the first line of the document header, prefixed with `=`):
+
+`:title-intro-en:` The introductory component of the English title (optional)
+`:title-main-en:` The main component of the English title (mandatory)
+`:title-part-en:` The English title of the document part (optional)
+`:title-intro-fr:` The introductory component of the French title (optional)
+`:title-main-fr:` The main component of the French title (mandatory)
+`:title-part-fr:` The French title of the document part (optional)
+
+Both the English and the French titles for the document are required, for both the English and the French version of the document. The main title will be that of the language the document is in.
+////
+
+////
+Comment 3: DOCUMENT TYPE (:doctype:) (mandatory)
+
+The permitted types are: 
+international-standard, 
+technical-specification, 
+technical-report, 
+publicly-available-specification, 
+guide,
+interpretation-sheet.
+
+Unlike ISO, IEC does not have international-workshop-agreement, and does have interpretation-sheet.
+////
+
+////
+Comment 4:  DOCUMENT STAGE AND SUBSTAGE (:docstage:, :docsubstage:)
+
+The stage and substage can be entered in two ways shown below. 
+
+Not all IEC codes are represented  - those that are not are set by the IEC-CO (IEC Central Office) rather than authors, or do not correspond to standards documents but to other parts of the process (compilation of comments, reports on votes, translation, etc.), are not represented here. 
+
+To see the codes that are ignored by Metanorma, visit: https://www.metanorma.com/author/iec/ref/document-attributes/
+
+METHOD 1: Via ISO International Harmonized Stage Codes
+
+The codes in this form are drawn from the ISO International Harmonized Stage Codes: https://www.iso.org/stage-codes.html
+
+The mapping to IEC stage codes is taken from:
+https://www.iec.ch/members_experts/refdocs/iec/isoiecdir1-consolidatediecsup%7Bed15.0.RLV%7Den.pdf 
+
+updated against the current discussion of stage codes in: 
+https://www.iec.ch/standardsdev/resources/processes/stage_codes.htm
+
+and: 
+https://www.iec.ch/standardsdev/resources/processes/workflows.htm
+
+Please, review table of supported codes in:  
+https://www.metanorma.com/author/iec/ref/document-attributes/
+
+
+METHOD 2: Via project stage abbreviation
+
+An IEC project stage abbreviation code entered under `:stage:` will be recognised, and broken down into the corresponding ISO harmonized stage and substage codes shown in the table automatically (visit https://www.metanorma.com/author/iec/ref/document-attributes/).
+
+For example, `:stage: ACD` is equivalent to setting `:docstage: 20` and `:docsubstage: 99`. 
+
+In the case of A2CD... A9CD and 2CD... 9CD, the numeral value of the :iteration: attribute will also be set accordingly.
+
+For example, `:stage: 8CD` is equivalent to setting :docstage: 35, :docsubstage: 20 and :iteration: 8.
+////
+
+////
+Comment 5: TECHNICAL COMMITTEE TYPE (:technical-committee-type:)
+
+Type of the relevant technical committee. Defaults to TC if not supplied. 
+
+Values: TC, PC, JTC, JPC.
+////
+
+////
+Comment 6: ICS NUMBER (:library-ics:)
+
+ICS (International Categorization for Standards) number for the standard.
+
+There may be more than one ICS for a document; if so, they should be comma-delimited. (The ICS identifier is added to the document metadata, but may not be visible in the resulting document, depending on Metanorma flavor.)
+////
+
+
+
 include::sections/00-foreword.adoc[]
+
 include::sections/00-intro.adoc[]
+
 include::sections/01-scope.adoc[]
+
 include::sections/02-norm-refs.adoc[]
+
 include::sections/03-termsdef.adoc[]
+
 include::sections/04-content.adoc[]
 
 include::sections/a1-annex.adoc[]
+
 include::sections/a2-annex.adoc[]
 
 include::sections/zz-references.adoc[]
