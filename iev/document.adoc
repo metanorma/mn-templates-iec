@@ -3,10 +3,15 @@
 :docnumber: 60050
 :tc-document-number: 9999
 :partnumber: 871
+:comment: ### Document edition
 :edition: 2
+:comment: ### Last update date
 :revdate: 2029-02-28
+:comment: ### Year of copyright
 :copyright-year: 2029
+:comment: ### Language of the document (mandatory). Specified in two-letter code: "en" for English, "fr" for French
 :language: en
+:comment: ### Date on which the standard was last renewed without any changes in content.
 :unchangeddate: 2039
 :comment: ### Do not edit title-main-*
 :title-main-en: International Electrotechnical Vocabulary
@@ -25,17 +30,22 @@
 :technical-committee2-type: TC
 :technical-committee2-number: SyC AAL
 :technical-committee2: Active Assisted Living
-:language: en
 :library-ics: 01.040.11, 01.040.29, 11.020.10
+:comment: ### Draft status, enables display of reviewer notes; remove if final document
 :draft:
-:toc:
+:comment: ### Enable rendering of AsciiMath, MathML, and LaTeX ("latexmath" needs to be indicated in the code to use LaTeX, or set ":stem: latexmath" to interpret by default); optional
 :stem:
-:xrefstyle: short
+:comment: ### Directory in which images are located: all local image file locations are prefixed with this directory. (Optional.)
 :imagesdir: images
+:comment: ### Name of this AsciiDoc file
 :docfile: document.adoc
+:comment: ### Metanorma flavour: applies to all ISO documents
 :mn-document-class: iec
+:comment: ### Desired output formats. Metanorma-IEC supports the following output extension values: xml (MN XML), html (ISO-style HTML), doc (Word .doc)
 :mn-output-extensions: xml,doc,html,rxl
+:comment: ### Enable local relaton cache for quick inclusion of prefetched references (optional). For further information, visit: https://www.metanorma.com/author/ref/document-attributes/#caches, https://www.metanorma.com/author/topics/building/reference-lookup/#lookup-result-caching
 :local-cache-only:
+:comment: ### Encode all images in HTML output as inline data-URIs (optional)
 :data-uri-image:
 
 include::sections/00-foreword.adoc[]
