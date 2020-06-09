@@ -20,8 +20,9 @@
 :title-part-en: Web service interface for data parcels
 :title-main-fr: Registre d'ontologies de produits normalisés et transfert par parcelles de données
 :title-part-fr: Interface de service Web pour paquets de données
-:comment: ### Document type of publication. See comment 3 below
+:comment: ### Language of the document (mandatory). Specified in two-letter code: "en" for English, "fr" for French
 :language: en
+:comment: ### Document type of publication. See comment 3 below
 :doctype: international-standard
 :comment: ### See comment 4 below
 :docstage: 00
