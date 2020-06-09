@@ -1,42 +1,59 @@
 = Rice model
+:comment: ### See comment 1 below
 :docnumber: 17301
+:comment: ### This is the N-document number assigned within the IEC/TC, SC or WG. This number is only relevant within the scope of its assignment for tracking purposes (optional)
 :tc-docnumber: 17301
+:comment: ### IEC document part number. It can follow both "part" or "part-subpart" structure. (Optional.)
 :partnumber: 1
+:comment: ### Document edition
 :edition: 2
+:comment: ### Last update date
 :revdate: 2016-05-01
+:comment: ### Year of copyright
 :copyright-year: 2016
+:comment: ### Language of the document (mandatory). Specified in two-letter code: "en" for English, "fr" for French
 :language: en
+:comment: ### Date on which the standard was last renewed without any changes in content
 :unchangeddate: 2025
+:comment: ### Document title (mandatory). See comment 2 below
 :title-intro-en: Cereals and pulses
 :title-main-en: Specifications and test methods
 :title-part-en: Rice
 :title-intro-fr: Céréales et légumineuses
 :title-main-fr: Spécification et méthodes d'essai
 :title-part-fr: Riz
+:comment: ### Document type of publication. See comment 3 below
 :doctype: international-standard
+:comment: ### See comment 4 below
 :docstage: 30
 :docsubstage: 92
+:comment: ### Draft status, enables display of reviewer notes; remove if final document
 :draft:
+:comment: ### Number of the relevant IEC subcommittee
 :technical-committee-number: 34
+:comment: ### Name of the relevant IEC technical committee (mandatory)
 :technical-committee: Food products
+:comment: ### Number of the relevant IEC subcommittee. (Omit if not applicable.)
 :subcommittee-number: 4
+:comment: ### Name of the relevant IEC subcommittee. (Omit if not applicable.)
 :subcommittee: Cereals and pulses
+:comment: ### Number of the relevant IEC workgroup
 :workgroup-number: 3
+:comment: ### Name of the relevant IEC workgroup
 :workgroup: Rice Group
-:toc:
-:sectnumlevels: 7
+:comment: ### Enable rendering of AsciiMath, MathML, and LaTeX ("latexmath" needs to be indicated in the code to use LaTeX, or set ":stem: latexmath" to interpret by default); optional
 :stem:
-:xrefstyle: short
-:appendix-caption: Annex
-:appendix-refsig: Annex
-:section-refsig: Clause
-:table-caption: Table
-:example-caption: Figure
+:comment: ### Directory in which images are located: all local image file locations are prefixed with this directory. (Optional.)
 :imagesdir: images
+:comment: ### Name of this AsciiDoc file
 :docfile: document.adoc
+:comment: ### Metanorma flavour: applies to all ISO documents
 :mn-document-class: iec
+:comment: ### Desired output formats. Metanorma-IEC supports the following output extension values: xml (MN XML), html (ISO-style HTML), doc (Word .doc)
 :mn-output-extensions: xml,doc,html,rxl
+:comment: ### Enable local relaton cache for quick inclusion of prefetched references (optional). For further information, visit: https://www.metanorma.com/author/ref/document-attributes/#caches, https://www.metanorma.com/author/topics/building/reference-lookup/#lookup-result-caching
 :local-cache-only:
+:comment: ### Encode all images in HTML output as inline data-URIs (optional)
 :data-uri-image:
 
 include::sections/00-foreword.adoc[]
@@ -56,3 +73,86 @@ include::sections/ac-annex-c.adoc[]
 include::sections/ad-annex-d.adoc[]
 include::sections/ae-annex-e.adoc[]
 include::sections/b0-bibliography.adoc[]
+
+
+
+////
+Comment 1: DOCUMENT NUMBER (:docnumber:)
+
+Sequence of digits that gives the document number value included in the document identifier, for example: 
+
+17301 (to author IEC-17301),
+99999 (to author IEC-99999),
+8000 (to author IEC-8000), 
+22745 (to author IEC-22745)
+
+////
+
+
+////
+Comment 2: DOCUMENT TITLE (mandatory)
+
+The document title in Metanorma may be composed by three attributes from which two are optional and one mandatory. These attributtes are used instead of the metanorma-standoc `:title:` attribute and the default AsciiDoc title (the first line of the document header, prefixed with `=`):
+
+`:title-intro-en:` The introductory component of the English title (optional)
+`:title-main-en:` The main component of the English title (mandatory)
+`:title-part-en:` The English title of the document part (optional)
+`:title-intro-fr:` The introductory component of the French title (optional)
+`:title-main-fr:` The main component of the French title (mandatory)
+`:title-part-fr:` The French title of the document part (optional)
+
+Both the English and the French titles for the document are required, for both the English and the French version of the document. The main title will be that of the language the document is in.
+////
+
+
+////
+Comment 3: DOCUMENT TYPE (:doctype:) (mandatory)
+
+The permitted types are: 
+international-standard, 
+technical-specification, 
+technical-report, 
+publicly-available-specification, 
+guide,
+interpretation-sheet.
+
+Unlike ISO, IEC does not have international-workshop-agreement, and does have interpretation-sheet.
+////
+
+
+////
+Comment 4:  DOCUMENT STAGE AND SUBSTAGE (:docstage:, :docsubstage:)
+
+The stage and substage can be entered in two ways shown below. 
+
+Not all IEC codes are represented  - those that are not are set by the IEC-CO (IEC Central Office) rather than authors, or do not correspond to standards documents but to other parts of the process (compilation of comments, reports on votes, translation, etc.), are not represented here. 
+
+To see the codes that are ignored by Metanorma, visit: https://www.metanorma.com/author/iec/ref/document-attributes/
+
+METHOD 1: Via ISO International Harmonized Stage Codes
+
+The codes in this form are drawn from the ISO International Harmonized Stage Codes: https://www.iso.org/stage-codes.html
+
+The mapping to IEC stage codes is taken from:
+https://www.iec.ch/members_experts/refdocs/iec/isoiecdir1-consolidatediecsup%7Bed15.0.RLV%7Den.pdf 
+
+updated against the current discussion of stage codes in: 
+https://www.iec.ch/standardsdev/resources/processes/stage_codes.htm
+
+and: 
+https://www.iec.ch/standardsdev/resources/processes/workflows.htm
+
+Please, review table of supported codes in:  
+https://www.metanorma.com/author/iec/ref/document-attributes/
+
+
+METHOD 2: Via project stage abbreviation
+
+An IEC project stage abbreviation code entered under `:stage:` will be recognised, and broken down into the corresponding ISO harmonized stage and substage codes shown in the table automatically (visit https://www.metanorma.com/author/iec/ref/document-attributes/).
+
+For example, `:stage: ACD` is equivalent to setting `:docstage: 20` and `:docsubstage: 99`. 
+
+In the case of A2CD... A9CD and 2CD... 9CD, the numeral value of the :iteration: attribute will also be set accordingly.
+
+For example, `:stage: 8CD` is equivalent to setting :docstage: 35, :docsubstage: 20 and :iteration: 8.
+////
