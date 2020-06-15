@@ -14,7 +14,7 @@
 :comment: ### Language of the document (mandatory). Specified in two-letter code: "en" for English, "fr" for French
 :language: en
 :comment: ### Date on which the standard was last renewed without any changes in content
-:unchangeddate: 2025
+:unchanged-date: 2025
 :comment: ### Document title (mandatory). See comment 2 below
 :title-intro-en: Cereals and pulses
 :title-main-en: Specifications and test methods

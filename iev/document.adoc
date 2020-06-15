@@ -12,7 +12,7 @@
 :comment: ### Language of the document (mandatory). Specified in two-letter code: "en" for English, "fr" for French
 :language: en
 :comment: ### Date on which the standard was last renewed without any changes in content.
-:unchangeddate: 2039
+:unchanged-date: 2039
 :comment: ### Do not edit title-main-*
 :title-main-en: International Electrotechnical Vocabulary
 :title-main-fr: Vocabulaire Électrotechnique International
