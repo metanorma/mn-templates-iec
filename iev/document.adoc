@@ -7,7 +7,7 @@
 :revdate: 2029-02-28
 :copyright-year: 2029
 :language: en
-:unchangeddate: 2039
+:unchanged-date: 2039
 :comment: ### Do not edit title-main-*
 :title-main-en: International Electrotechnical Vocabulary
 :title-main-fr: Vocabulaire Électrotechnique International

@@ -6,7 +6,7 @@
 :revdate: 2016-05-01
 :copyright-year: 2016
 :language: en
-:unchangeddate: 2025
+:unchanged-date: 2025
 :title-intro-en: Cereals and pulses
 :title-main-en: Specifications and test methods
 :title-part-en: Rice
