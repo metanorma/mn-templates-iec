@@ -1,6 +1,5 @@
 == Terms and Definitions
 
-:sectnums!:
 [[paddy]]
 === paddy
 alt:[paddy rice]
