@@ -57,21 +57,37 @@
 :data-uri-image:
 
 include::sections/00-foreword.adoc[]
+
 include::sections/00-introduction.adoc[]
+
 include::sections/01-scope.adoc[]
+
 include::sections/02-normref.adoc[]
+
 include::sections/03-termdef.adoc[]
+
 include::sections/04-specifications.adoc[]
+
 include::sections/05-sampling.adoc[]
+
 include::sections/06-testmethods.adoc[]
+
 include::sections/07-testreport.adoc[]
+
 include::sections/08-packaging.adoc[]
+
 include::sections/09-marking.adoc[]
+
 include::sections/aa-annex-a.adoc[]
+
 include::sections/ab-annex-b.adoc[]
+
 include::sections/ac-annex-c.adoc[]
+
 include::sections/ad-annex-d.adoc[]
+
 include::sections/ae-annex-e.adoc[]
+
 include::sections/b0-bibliography.adoc[]
 
 
