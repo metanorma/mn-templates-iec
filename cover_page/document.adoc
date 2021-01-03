@@ -1,0 +1,44 @@
+= Title of IEC standard
+:comment: ### Circulation Cover Page template
+:comment: ### Indication of Closing date for voting
+:vote-ended-date: 2020-01-01
+:comment: ### Indication of horizontal standard; true or false
+:horizontal: true
+:comment: ### Indication of "Submitted for CENELEC parallel voting" (true or false)
+:cen-processing: true
+:comment: ### Proposed stability date
+:unchanged-date: 2020-02-01
+:comment: ### Indication of "Project Number". Following the format: XX/XX/FDIS, XX/XX/CDV, ...
+:tc-docnumber: 104/864/FDIS
+:comment: ### Function concerned. Permitted values: emc, environment, quality-assurance, safety
+:function: emc
+:comment: ### Technical Committee title
+:technical-committee: Documentation, graphical symbols and representations of technical information
+:comment: ### Technical Committee number
+:technical-committee-number: TC 3
+:comment: ### Subcommittee title
+:subcommittee: Graphical symbols for use on equipment
+:comment: ### Subcommittee number
+:subcommittee-number: SC 3C
+:comment: ### IEC Secretariat
+:secretariat: Geneva
+:comment: ### Fullname of current IEC General Secretary
+:secretary: Philippe Metzger
+:comment: ### Indication of "Of interest to the following committees"
+:interest-to-committees: TC 7, TC 8
+:comment: ### Project state abbreviation
+:stage: NFDIS
+:docnumber: 324
+
+
+== Clause
+
+// Indication of "Note from TC/SC Officers"
+[NOTE]
+.Note from TC/SC Officers
+====
+This FDIS is the result of the discussion between the IEC SC21A experts WG 3 during the meeting held in
+Chicago (USA) on April 9th
+
+This document is also of interest for ISO/ TC114/ WG1 Requirements for Watch batteries
+====
