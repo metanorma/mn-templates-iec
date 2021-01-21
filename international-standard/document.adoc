@@ -24,6 +24,9 @@
 :language: en
 :comment: ### Document type of publication. See comment 3 below
 :doctype: international-standard
+:comment: ### Function concerned to the style of the standard. Permitted values: emc, safety, environment, quality-assurance
+:function: environment
+:horizontal: false
 :comment: ### See comment 4 below
 :docstage: 00
 :docsubstage: 00

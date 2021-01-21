@@ -1,5 +1,5 @@
 
-:sectnums:
+
 == Scope
 
 // Replace the italicised text. Delete the second sentence ("This new edition...") if not applicable.

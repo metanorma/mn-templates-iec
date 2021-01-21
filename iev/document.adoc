@@ -49,8 +49,13 @@
 :data-uri-image:
 
 include::sections/00-foreword.adoc[]
+
 include::sections/00-intro.adoc[]
+
 include::sections/01-scope.adoc[]
+
 include::sections/02-norm-refs.adoc[]
+
 include::sections/03-termsdef.adoc[]
+
 include::sections/zz-references.adoc[]
