@@ -2,6 +2,7 @@
 :comment: ### Circulation Cover Page template
 :comment: ### Indication of Closing date for voting
 :vote-ended-date: 2020-01-01
+:doctype: cover-page
 :comment: ### Indication of horizontal standard; true or false
 :horizontal: true
 :comment: ### Indication of "Submitted for CENELEC parallel voting" (true or false)
@@ -26,9 +27,12 @@
 :secretary: Philippe Metzger
 :comment: ### Indication of "Of interest to the following committees"
 :interest-to-committees: TC 7, TC 8
-:comment: ### Project state abbreviation
-:stage: NFDIS
+:comment: ### Project state. Both abbreviations and numbers are permitted
+:stage: 50
+:comment: ### Numeric identifier of the document. See comment 1 below
 :docnumber: 324
+:comment: ### Indication of documents superseded
+:obsoletes: 104/820/CDV; 104/852A/RVC
 
 
 == Clause
@@ -42,3 +46,16 @@ Chicago (USA) on April 9th
 
 This document is also of interest for ISO/ TC114/ WG1 Requirements for Watch batteries
 ====
+
+
+////
+Comment 1: DOCUMENT NUMBER (:docnumber:)
+
+Sequence of digits that gives the document number value included in the document identifier, for example: 
+
+17301 (to author IEC-17301),
+99999 (to author IEC-99999),
+8000 (to author IEC-8000), 
+22745 (to author IEC-22745)
+
+////
