@@ -2,7 +2,8 @@
 :comment: ### Circulation Cover Page template
 :comment: ### Indication of Closing date for voting
 :vote-ended-date: 2020-01-01
-:doctype: cover-page
+:comment: ### Document type of publication. See comment 1 below
+:doctype: international-standard
 :comment: ### Indication of horizontal standard; true or false
 :horizontal: true
 :comment: ### Indication of "Submitted for CENELEC parallel voting" (true or false)
@@ -29,7 +30,7 @@
 :interest-to-committees: TC 7, TC 8
 :comment: ### Project state. Both abbreviations and numbers are permitted
 :stage: 50
-:comment: ### Numeric identifier of the document. See comment 1 below
+:comment: ### Numeric identifier of the document. See comment 2 below
 :docnumber: 324
 :comment: ### Indication of documents superseded
 :obsoletes: 104/820/CDV; 104/852A/RVC
@@ -47,9 +48,22 @@ Chicago (USA) on April 9th
 This document is also of interest for ISO/ TC114/ WG1 Requirements for Watch batteries
 ====
 
+////
+Comment 1: DOCUMENT TYPE (:doctype:) (mandatory)
+
+The permitted types are: 
+international-standard, 
+technical-specification, 
+technical-report, 
+publicly-available-specification, 
+guide,
+interpretation-sheet.
+
+Unlike ISO, IEC does not have international-workshop-agreement, and does have interpretation-sheet.
+////
 
 ////
-Comment 1: DOCUMENT NUMBER (:docnumber:)
+Comment 2: DOCUMENT NUMBER (:docnumber:)
 
 Sequence of digits that gives the document number value included in the document identifier, for example: 
 
