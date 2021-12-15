@@ -1,0 +1,12 @@
+---
+metanorma:
+  source:
+    files:
+      - cover_page/document.adoc
+      - iec-rice/document.adoc
+      - iev/document.adoc
+      - international-standard/document.adoc
+
+  collection:
+    organization: "IEC: International Electrotechnical Commission"
+    name: "IEC deliverable templates in Metanorma AsciiDoc"
