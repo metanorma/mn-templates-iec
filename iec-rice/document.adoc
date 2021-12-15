@@ -45,8 +45,6 @@
 :stem:
 :comment: ### Directory in which images are located: all local image file locations are prefixed with this directory. (Optional.)
 :imagesdir: images
-:comment: ### Name of this AsciiDoc file
-:docfile: document.adoc
 :comment: ### Metanorma flavour: applies to all ISO documents
 :mn-document-class: iec
 :comment: ### Desired output formats. Metanorma-IEC supports the following output extension values: xml (MN XML), html (ISO-style HTML), doc (Word .doc)
