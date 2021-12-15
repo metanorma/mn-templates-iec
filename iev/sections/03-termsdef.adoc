@@ -17,14 +17,6 @@ deprecated:[English deprecated term]
 
 domain:[specific use]
 
-////
-==== English preferred term, <specific use> attributes
-
-alt:[English admitted term], <specific use> attributes
-
-deprecated:[English deprecated term], <specific use> attributes
-////
-
 definition written as a descriptive statement that can replace the term in context
 
 // non-verbal representation of the concept (e.g. mathematical formula or illustration)
@@ -40,38 +32,6 @@ NOTE: Additional information, e.g. units, provisions relating to the use of the 
 [.source]
 <<ISO5127,clause="3.1.6.02">>, Description of modification
 
-////
-
-[[fr-term-script]]
-[language=fr]
-==== terme française privilégié, <utilisation spécifique> attributs
-
-alt:[terme française toléré], <utilisation spécifique> attributs
-
-deprecated:[terme française déconseillé], <utilisation spécifique> attributs
-
-définition composée d'une seule phrase décrivant le concept et qui peut remplacer le terme dans son contexte
-
-représentation non verbale du concept (p.ex. formule mathématique ou illustration)
-
-====
-Informations qui illustrent le concept.
-====
-
-NOTE: Information supplémentaire, p.ex. unités, exigences relatives à l’utilisation du terme.
-
-[.source]
-<<ISO639-1>>, Description de la modification
-
-[language=de]
-[[de-term-script]]
-==== äquivalenter Begriff in zusätzlicher IEV-Sprache
-
-[language=ru]
-[[ru-term-script]]
-==== эквивалентный термин на дополнительном языке IEV
-
-////
 
 ////
 not modelled yet:
