@@ -34,6 +34,8 @@
 :docnumber: 324
 :comment: ### Indication of documents superseded
 :obsoletes: 104/820/CDV; 104/852A/RVC
+:comment: ### Metanorma flavour: applies to all ISO documents
+:mn-document-class: iec
 
 
 == Clause
