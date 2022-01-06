@@ -1,7 +1,8 @@
 = IEC Metanorma Templates
 
-image:https://github.com/metanorma/mn-templates-iec/workflows/defaults/badge.svg["*nix Build Status", link="https://github.com/metanorma/mn-templates-iec/actions?query=workflow%3Adefaults"]
-image:https://github.com/metanorma/mn-templates-iec/workflows/windows/badge.svg["Windows Build Status", link="https://github.com/metanorma/mn-templates-iec/actions?query=workflow%3Awindows"]
+image:https://github.com/metanorma/mn-templates-iec/workflows/test/badge.svg["Test Status", link="https://github.com/metanorma/mn-templates-iec/actions/workflows/test.yml"]
+image:https://github.com/metanorma/mn-templates-iec/workflows/pages/badge.svg["Pages Status", link="https://github.com/metanorma/mn-templates-iec/actions/workflows/pages.yml"]
+image:https://github.com/metanorma/mn-templates-iec/workflows/docker/badge.svg["Build Status", link="https://github.com/metanorma/mn-templates-iec/actions/workflows/docker.yml"]
 
 Note that the Apache license applies only to the template.
 Once a document has been created
