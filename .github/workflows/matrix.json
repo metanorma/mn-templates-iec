@@ -1,0 +1,10 @@
+{
+	"type": [ "iec" ],
+	"doctype": [
+		"iec-rice",
+		"international-standard",
+		"cover_page",
+		"iev"
+	],
+	"experimental": [ false ]
+}
