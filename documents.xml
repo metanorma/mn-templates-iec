@@ -1,0 +1,284 @@
+<relaton-collection xmlns="https://open.ribose.com/relaton-xml"><title>IEC deliverable templates in Metanorma AsciiDoc</title><contributor><role type='author'/><organization><name>IEC: International Electrotechnical Commission</name></organization></contributor><relation type='partOf'><bibdata type="standard">
+  <uri type="xml">documents/cover_page/document.xml</uri>
+  <uri type="pdf">documents/cover_page/document.pdf</uri>
+  <uri type="doc">documents/cover_page/document.doc</uri>
+  <uri type="html">documents/cover_page/document.html</uri>
+  <uri type="rxl">documents/cover_page/document.rxl</uri>
+  <docidentifier type="ISO">IEC 324 ED 1</docidentifier>
+  <docidentifier type="iso-tc">104/864/FDIS</docidentifier>
+  <docnumber>324</docnumber>
+  <date type="unchanged">
+    <on>2020-02-01</on>
+  </date>
+  <date type="vote-ended">
+    <on>2020-01-01</on>
+  </date>
+  <contributor>
+    <role type="author"/>
+    <organization>
+      <name>International Electrotechnical Commission</name>
+      <abbreviation>IEC</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>International Electrotechnical Commission</name>
+      <abbreviation>IEC</abbreviation>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <status>
+    <stage abbreviation="PPUB">60</stage>
+    <substage abbreviation="PPUB">60</substage>
+  </status>
+  <copyright>
+    <from>2022</from>
+    <owner>
+      <organization>
+        <name>International Electrotechnical Commission</name>
+        <abbreviation>IEC</abbreviation>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletes">
+    <bibitem type="standard">
+      <title>--</title>
+      <docidentifier>104/820/CDV</docidentifier>
+    </bibitem>
+  </relation>
+  <relation type="obsoletes">
+    <bibitem type="standard">
+      <title>--</title>
+      <docidentifier>104/852A/RVC</docidentifier>
+    </bibitem>
+  </relation>
+  <ext>
+    <doctype>international-standard</doctype>
+    <horizontal>true</horizontal>
+    <editorialgroup>
+      <technical-committee number="0" type="TC">Documentation, graphical symbols and representations of technical information</technical-committee>
+      <subcommittee number="0" type="SC">Graphical symbols for use on equipment</subcommittee>
+      <secretariat>Geneva</secretariat>
+    </editorialgroup>
+    <structuredidentifier>
+      <project-number>IEC 324</project-number>
+    </structuredidentifier>
+    <stagename>International standard</stagename>
+  </ext>
+</bibdata></relation>
+<relation type='partOf'><bibdata type="standard">
+  <title type="main" format="text/plain" language="en">Cereals and pulses — Specifications and test methods — Rice</title>
+  <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
+  <title type="title-main" format="text/plain" language="en">Specifications and test methods</title>
+  <title type="title-part" format="text/plain" language="en">Rice</title>
+  <title type="main" format="text/plain" language="fr">Céréales et légumineuses — Spécification et méthodes d’essai — Riz</title>
+  <title type="title-intro" format="text/plain" language="fr">Céréales et légumineuses</title>
+  <title type="title-main" format="text/plain" language="fr">Spécification et méthodes d’essai</title>
+  <title type="title-part" format="text/plain" language="fr">Riz</title>
+  <uri type="xml">documents/iec-rice/document.xml</uri>
+  <uri type="doc">documents/iec-rice/document.doc</uri>
+  <uri type="html">documents/iec-rice/document.html</uri>
+  <uri type="rxl">documents/iec-rice/document.rxl</uri>
+  <docidentifier type="ISO">IEC/CD 17301-1 ED 2</docidentifier>
+  <docidentifier type="iso-tc">17301</docidentifier>
+  <docnumber>17301</docnumber>
+  <date type="unchanged">
+    <on>2025-01-01</on>
+  </date>
+  <contributor>
+    <role type="author"/>
+    <organization>
+      <name>International Electrotechnical Commission</name>
+      <abbreviation>IEC</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>International Electrotechnical Commission</name>
+      <abbreviation>IEC</abbreviation>
+    </organization>
+  </contributor>
+  <edition>2</edition>
+  <version>
+    <revision-date>2016-05-01</revision-date>
+  </version>
+  <language>en</language>
+  <script>Latn</script>
+  <status>
+    <stage abbreviation="CD">30</stage>
+    <substage abbreviation="BWG">92</substage>
+  </status>
+  <copyright>
+    <from>2016</from>
+    <owner>
+      <organization>
+        <name>International Electrotechnical Commission</name>
+        <abbreviation>IEC</abbreviation>
+      </organization>
+    </owner>
+  </copyright>
+  <ext>
+    <doctype>international-standard</doctype>
+    <editorialgroup>
+      <technical-committee number="34" type="TC">Food products</technical-committee>
+      <subcommittee number="4" type="SC">Cereals and pulses</subcommittee>
+      <workgroup number="3" type="WG">Rice Group</workgroup>
+    </editorialgroup>
+    <structuredidentifier>
+      <project-number part="1">IEC 17301</project-number>
+    </structuredidentifier>
+    <stagename>Committee draft</stagename>
+  </ext>
+</bibdata></relation>
+<relation type='partOf'><bibdata type="standard">
+  <title type="main" format="text/plain" language="en">International Electrotechnical Vocabulary — Active assisted living (AAL)</title>
+  <title type="title-main" format="text/plain" language="en">International Electrotechnical Vocabulary</title>
+  <title type="title-part" format="text/plain" language="en">Active assisted living (AAL)</title>
+  <title type="main" format="text/plain" language="fr">Vocabulaire Électrotechnique International — Assistance à l’autonomie à domicile (AAD)</title>
+  <title type="title-main" format="text/plain" language="fr">Vocabulaire Électrotechnique International</title>
+  <title type="title-part" format="text/plain" language="fr">Assistance à l’autonomie à domicile (AAD)</title>
+  <uri type="xml">documents/iev/document.xml</uri>
+  <uri type="doc">documents/iev/document.doc</uri>
+  <uri type="html">documents/iev/document.html</uri>
+  <uri type="rxl">documents/iev/document.rxl</uri>
+  <docidentifier type="ISO">IEC/PWI 60050-871 ED 2</docidentifier>
+  <docnumber>60050</docnumber>
+  <date type="unchanged">
+    <on>2039-01-01</on>
+  </date>
+  <contributor>
+    <role type="author"/>
+    <organization>
+      <name>International Electrotechnical Commission</name>
+      <abbreviation>IEC</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>International Electrotechnical Commission</name>
+      <abbreviation>IEC</abbreviation>
+    </organization>
+  </contributor>
+  <edition>2</edition>
+  <version>
+    <revision-date>2029-02-28</revision-date>
+  </version>
+  <language>en</language>
+  <script>Latn</script>
+  <status>
+    <stage abbreviation="PWI">00</stage>
+    <substage abbreviation="PWI">00</substage>
+  </status>
+  <copyright>
+    <from>2029</from>
+    <owner>
+      <organization>
+        <name>International Electrotechnical Commission</name>
+        <abbreviation>IEC</abbreviation>
+      </organization>
+    </owner>
+  </copyright>
+  <ext>
+    <doctype>international-standard</doctype>
+    <subdoctype>vocabulary</subdoctype>
+    <editorialgroup>
+      <technical-committee number="1" type="TC">Terminology</technical-committee>
+    </editorialgroup>
+    <ics>
+      <code>01.040.11</code>
+      <text>Health care technology (Vocabularies)</text>
+    </ics>
+    <ics>
+      <code>01.040.29</code>
+      <text>Electrical engineering (Vocabularies)</text>
+    </ics>
+    <ics>
+      <code>11.020.10</code>
+      <text>Health care services in general</text>
+    </ics>
+    <structuredidentifier>
+      <project-number part="871">IEC 60050</project-number>
+    </structuredidentifier>
+    <stagename>Preliminary work item</stagename>
+  </ext>
+</bibdata></relation>
+<relation type='partOf'><bibdata type="standard">
+  <title type="main" format="text/plain" language="en">Standardized product ontology register and transfer by data parcels — Web service interface for data parcels</title>
+  <title type="title-main" format="text/plain" language="en">Standardized product ontology register and transfer by data parcels</title>
+  <title type="title-part" format="text/plain" language="en">Web service interface for data parcels</title>
+  <title type="main" format="text/plain" language="fr">Registre d’ontologies de produits normalisés et transfert par parcelles de données — Interface de service Web pour paquets de données</title>
+  <title type="title-main" format="text/plain" language="fr">Registre d’ontologies de produits normalisés et transfert par parcelles de données</title>
+  <title type="title-part" format="text/plain" language="fr">Interface de service Web pour paquets de données</title>
+  <uri type="xml">documents/international-standard/document.xml</uri>
+  <uri type="doc">documents/international-standard/document.doc</uri>
+  <uri type="html">documents/international-standard/document.html</uri>
+  <uri type="rxl">documents/international-standard/document.rxl</uri>
+  <docidentifier type="ISO">IEC/2PWI 99999-8-1 ED 1</docidentifier>
+  <docidentifier type="iso-tc">9999</docidentifier>
+  <docnumber>99999</docnumber>
+  <date type="published">
+    <on>2018-10-14</on>
+  </date>
+  <date type="circulated">
+    <on>2018-10-04</on>
+  </date>
+  <date type="unchanged">
+    <on>2039-01-01</on>
+  </date>
+  <contributor>
+    <role type="author"/>
+    <organization>
+      <name>International Electrotechnical Commission</name>
+      <abbreviation>IEC</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>International Electrotechnical Commission</name>
+      <abbreviation>IEC</abbreviation>
+    </organization>
+  </contributor>
+  <edition>1</edition>
+  <version>
+    <revision-date>2029-02-28</revision-date>
+  </version>
+  <language>en</language>
+  <script>Latn</script>
+  <status>
+    <stage abbreviation="PWI">00</stage>
+    <substage abbreviation="PWI">00</substage>
+    <iteration>2</iteration>
+  </status>
+  <copyright>
+    <from>2029</from>
+    <owner>
+      <organization>
+        <name>International Electrotechnical Commission</name>
+        <abbreviation>IEC</abbreviation>
+      </organization>
+    </owner>
+  </copyright>
+  <ext>
+    <doctype>international-standard</doctype>
+    <horizontal>false</horizontal>
+    <editorialgroup>
+      <technical-committee number="3" type="TC">Information structures and elements, identification and marking principles, documentation and graphical symbols</technical-committee>
+      <subcommittee number="3" type="SC">Product properties and classes and their identification</subcommittee>
+      <workgroup number="62656" type="PT">Model-extension and interface for IEC CDD</workgroup>
+    </editorialgroup>
+    <ics>
+      <code>11.060</code>
+      <text>Dentistry</text>
+    </ics>
+    <structuredidentifier>
+      <project-number part="8" subpart="1">IEC 99999</project-number>
+    </structuredidentifier>
+    <stagename>Preliminary work item</stagename>
+  </ext>
+</bibdata></relation>
+</relaton-collection>

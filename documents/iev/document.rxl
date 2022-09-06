@@ -1,0 +1,21 @@
+<bibdata type="standard">
+<title language="en" format="text/plain" type="main">International Electrotechnical Vocabulary — Active assisted living (AAL)</title>
+
+<title language="en" format="text/plain" type="title-main">International Electrotechnical Vocabulary</title>
+
+<title language="en" format="text/plain" type="title-part">Active assisted living (AAL)</title>
+
+
+
+<title language="fr" format="text/plain" type="main">Vocabulaire Électrotechnique International — Assistance à l’autonomie à domicile (AAD)</title>
+
+<title language="fr" format="text/plain" type="title-main">Vocabulaire Électrotechnique International</title>
+
+<title language="fr" format="text/plain" type="title-part">Assistance à l’autonomie à domicile (AAD)</title>
+<docidentifier type="ISO">IEC/PWI 60050-871 ED 2</docidentifier><docnumber>60050</docnumber><date type="unchanged"><on>2039</on></date><contributor><role type="author"/><organization>
+<name>International Electrotechnical Commission</name>
+<abbreviation>IEC</abbreviation></organization></contributor><contributor><role type="publisher"/><organization>
+<name>International Electrotechnical Commission</name>
+<abbreviation>IEC</abbreviation></organization></contributor><edition>2</edition><version><revision-date>2029-02-28</revision-date></version><language>en</language><script>Latn</script><status><stage abbreviation="PWI">00</stage><substage abbreviation="PWI">00</substage></status><copyright><from>2029</from><owner><organization>
+<name>International Electrotechnical Commission</name>
+<abbreviation>IEC</abbreviation></organization></owner></copyright><ext><doctype>international-standard</doctype><subdoctype>vocabulary</subdoctype><editorialgroup><agency>IEC</agency><technical-committee number="1" type="TC">Terminology</technical-committee></editorialgroup><ics><code>01.040.11</code><text>Health care technology (Vocabularies)</text></ics><ics><code>01.040.29</code><text>Electrical engineering (Vocabularies)</text></ics><ics><code>11.020.10</code><text>Health care services in general</text></ics><structuredidentifier><project-number part="871">IEC 60050</project-number></structuredidentifier><stagename>Preliminary work item</stagename></ext></bibdata>

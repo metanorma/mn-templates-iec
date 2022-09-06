@@ -1,0 +1,32 @@
+/__w/mn-templates-iec/mn-templates-iec/site/documents/cover_page/document.err errors
+
+
+== Style
+
+(): Scope clause missing
+(): Normative references missing
+(): Terms & definitions missing
+(): Initial section must be (content) Foreword
+(): Document must contain at least one clause
+(): Document must contain clause after Terms and Definitions
+(): Only annexes and references can follow clauses
+(): Document must include (references) Normative References
+(): Final section must be (references) Bibliography
+(XML Line 000030): All lists must be preceded by colon or full stop: 
+        www.iec.ch
+      
+      
+	<ol id="_4ba7e7cf-8b86-0df4-6dfa-755dcb1cb123">
+	        <li><p id="_ad491f01-2526-0f1b-b11d-1f2ffa352917">The International Electrotechnical Commission (IEC) is a worldwide organization for standardization comprising all national electrotechnical committees (IEC National Committees). The object of IEC is to promote international co-operation on all questions concerning standardization in the electrical and electronic fields. To this end and in addition to other activities, IEC publishes International Standards, Technical Specifications, Technical Reports, Publicly Available Specifications (PAS) and Guides (hereafter referred to as “IEC Publication(s)”). Their preparation is entrusted to technical committees; any IEC National Committee interested in the subject dealt with may participate in this preparatory work. International, governmental and non-governmental organizations liaising with the IEC also participate in this preparation. IEC collaborates closely with the International Organization for Standardization (ISO) in accordance with conditions determined by agreement between the two organizations.</p></li>
+	        <li><p id="_b16ed204-1b78-1bd2-8b72-60beb8ccb220">The formal decisions or agreements of IEC on technical matters express, as nearly as possible, an international consensus of opinion on the relevant subjects since each technical committee has representation from all interested IEC National Committees.</p></li>
+	        <li><p id="_8b994313-fcb6-0f5d-50f3-db94af96dae9">IEC Publications have the form of recommendations for international use and are accepted by IEC National Committees in that sense. While all reasonable efforts are made to ensure that the technical content of IEC Publications is accurate, IEC cannot be held responsible for the way in which they are used or for any misinterpretation by any end user.</p></li>
+	        <li><p id="_d46eb1d5-8cd5-3c31-6271-7356e3b7dfff">In order to promote international uniformity, IEC National Committees undertake to apply IEC Publications transparently to the maximum extent possible in their national and regional publications. Any divergence between any IEC Publication and the corresponding national or regional publication shall be clearly indicated in the latter.</p></li>
+
+
+== Metanorma XML Syntax
+
+(XML Line 000009:27): element "docidentifier" not allowed yet; missing required element "title"
+(XML Line 000104:11): element "sections" not allowed yet; missing required element "preface"
+(XML Line 000106:10): element "clause" incomplete; expected element "admonition", "amend", "bookmark", "clause", "dl", "example", "figure", "form", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "passthrough", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table", "toc", "ul" or "variant-title"
+(XML Line 000107:12): element "sections" incomplete; expected element "clause", "definitions" or "terms"
+(XML Line 000108:16): element "iec-standard" incomplete; missing required element "bibliography"

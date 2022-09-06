@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><standard xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:tbx="urn:iso:std:iso:30042:ed-1" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<std-meta>
+<proj-id>iec:proj:IEC 324</proj-id>
+<release-version>IS</release-version>
+<std-ident>
+<originator>IEC</originator>
+<doc-type>IS</doc-type>
+<doc-number>324</doc-number>
+<edition/>
+<version/>
+<std-id-group>
+<std-id std-id-type="dated" std-id-link-type="urn" originator="IEC">urn:iec:std:iec:324:::</std-id>
+</std-id-group>
+</std-ident>
+<std-org>
+<std-org-abbrev>IEC</std-org-abbrev>
+</std-org>
+<content-language>en</content-language>
+<std-ref type="dated">IEC 324 ED 1:</std-ref>
+<std-ref type="undated">IEC 324 ED 1</std-ref>
+<meta-date type="unchanged">2020-02-01</meta-date>
+<meta-date type="vote-ended">2020-01-01</meta-date>
+<comm-ref>TC 3</comm-ref>
+<secretariat>Geneva</secretariat>
+<std-xref type="obsoletes">
+<std-ref type="undated">104/820/CDV</std-ref>
+</std-xref>
+<std-xref type="obsoletes">
+<std-ref type="undated">104/852A/RVC</std-ref>
+</std-xref>
+<permissions>
+<copyright-year>2022</copyright-year>
+<copyright-holder>IEC</copyright-holder>
+<license>
+<license-p>All rights reserved. Unless otherwise specified, no part of this publication may be reproduced or utilized otherwise in any form or by any means, electronic or mechanical, including photocopying, or posting on the internet or an intranet, without prior written permission. Permission can be requested from either IEC at the address below or IEC’s member body in the country of the requester.</license-p>
+<license-p>
+<address>
+<addr-line>IEC Central Office, 3, rue de Varembé, CH-1211 Geneva 20, Switzerland, Tel.  + 41 22 919 02 11, Fax  + 41 22 919 03 00, info@iec.ch, www.iec.ch</addr-line>
+</address>
+</license-p>
+</license>
+</permissions>WARNING! There are unprocessed elements in bibdata:
+===================================
+<function>emc</function>
+<cen-processing>true</cen-processing>
+<secretary>Philippe Metzger</secretary>
+<interest-to-committees>TC 7, TC 8</interest-to-committees>
+<tc-sc-officers-note>
+<p id="_cfa6d3dd-9301-43fe-1e9e-268c6e4dd68c">This FDIS is the result of the discussion between the IEC SC21A experts WG 3 during the meeting held in Chicago (USA) on April 9th</p>
+<p id="_0ca6dcfb-c5f7-8336-1439-ad1e46e8d09f">This document is also of interest for ISO/ TC114/ WG1 Requirements for Watch batteries</p>
+</tc-sc-officers-note>
+===================================
+</std-meta>
+</front>
+<body>
+<sec id="_clause">
+<label>1</label>
+<title>Clause</title>
+
+</sec>
+</body>
+</standard>

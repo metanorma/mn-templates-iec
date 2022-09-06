@@ -1,0 +1,181 @@
+/__w/mn-templates-iec/mn-templates-iec/site/documents/iec-rice/document.err errors
+
+
+== Style
+
+(): AnnexA-4-1:Preparation of test sample: subclause is only child
+(XML Line 000001): number not broken up in threes: 16634
+	<fn reference="2">
+	  <p id="_56142783-d3dd-b8a7-7b9f-01ba97018fbf">Under preparation. (Stage at the time of publication ISO/DIS 16634)</p>
+	</fn>
+(XML Line 000001): Use 'either x or y, or both': and/or
+	<p id="_9db2c6f6-dcaf-004b-aa75-3752290d89d8">kernel, whole or broken, which is unripe and/or underdeveloped</p>
+(XML Line 000001): number not broken up in threes: 16634
+	<p id="_56142783-d3dd-b8a7-7b9f-01ba97018fbf">Under preparation. (Stage at the time of publication ISO/DIS 16634)</p>
+(XML Line 000028): Foreword may contain requirement: A Foreword shall appear in each document
+	<foreword id="_43a20348-9dab-565b-7e68-ea2739d19b8a" obligation="informative">
+	<title>FOREWORD</title>
+	<p id="foreword">International Standard IEC 17301 has been prepared by subcommittee 4: Cereals and pulses, of IEC technical committee 34: Food products.</p>
+	
+	<p id="_bdb3a1e7-c991-df79-a5d7-946af84d06fd">This second edition cancels and replaces the first edition published in 2009. This edition constitutes a technical revision.</p>
+(XML Line 000038): possible decimal point: 4.3
+	<p id="_20c4bcb3-09ca-dd8a-49ed-b9f9d553412e">deletion of 4.3.</p>
+(XML Line 000044): Table should have title
+	<table id="_9b86f790-ab4b-bb9a-3295-012aa2281413"><thead><tr><th valign="top" align="left">FDIS</th>
+	<th valign="top" align="left">Report on voting</th>
+	</tr></thead>
+	<tbody><tr><td valign="top" align="left">XX/XX/FDIS</td>
+	<td valign="top" align="left">XX/XX/RVD</td>
+(XML Line 000058): All lists must be preceded by colon or full stop: The committee has decided that the contents of this document will remain unchanged until the stability date indicated on the IEC website under “http://webstore.iec.ch” in the data related to the specific document. At this date, the document will be
+	<ul id="_18e7ad1d-21ea-2073-c84c-ff65b47edcf4"><li><p id="_f8b4f8ba-79a6-dbb2-a347-28993dcfd91d">reconfirmed,</p>
+	</li>
+	<li><p id="_06c88842-b5ec-7767-610c-7075e16f9217">withdrawn,</p>
+	</li>
+	<li><p id="_44f968bd-7e67-0661-0a82-c6f0a6f11781">replaced by a revised edition, or</p>
+(XML Line 000074): number not broken up in threes: 2016
+	<p id="_e6f79f8f-d0ae-ba34-6b28-e699f8d6e1af">For further information on the Foreword, see <strong>ISO/IEC Directives, Part 2, 2016, Clause 12.</strong></p>
+(XML Line 000076): Introduction may contain requirement: ISO shall not be held responsible for identifying any or all such patent rights
+	<introduction id="_introduction" obligation="informative">
+	<title>INTRODUCTION</title>
+	<p id="_9bebac51-f623-8d07-8f50-eefde7cdff18">This document was developed in response to worldwide demand for minimum specifications for rice traded internationally, since most commercial bulks of grain, which have not been screened or aspirated, contain a proportion of other grains, weed seeds, chaff, straw, stones, sand, etc. The vegetable materials can have physical and biological properties which differ from those of the main constituent and can therefore affect the storage behaviour.</p>
+	
+	<p id="_ec9c1135-3a33-7b15-2016-71e4032de522">Rice is a permanent host to a considerable microflora; most of these microorganisms are cosmopolitan, the majority are innocuous, but some produce harmful by-products. Microflora communities present on freshly harvested rice include many types of bacteria, moulds and yeasts. While the rice is ripening and its moisture content is falling, the number of field microorganisms, mainly bacteria, diminishes. When the rice is harvested, it is invaded by storage microorganisms and the field microflora gradually dies out. If the mass fraction of moisture (formerly expressed as moisture content) is less than 18 %, the microflora does not multiply, whereas above 18 % it does so rapidly. Thus, at harvest, the qualitative and the quantitative composition of the microflora depends more upon ecological factors than upon the variety of the rice. During transport and storage, additions to the microfloral population occur. Microorganisms on the rice at harvest tend to die out during storage and are replaced by microorganisms adapted to storage conditions.</p>
+(XML Line 000205): number not broken up in threes: 16634
+	<note format="text/plain" type="Unpublished-Status">Under preparation. (Stage at the time of publication ISO/DIS 16634)</note>
+(XML Line 000255): possible decimal point: 3.1
+	<termsource status="identical" type="authoritative"><origin bibitemid="ISO7301" type="inline" citeas="ISO 7301:2011"><localityStack><locality type="clause"><referenceFrom>3.1</referenceFrom></locality></localityStack></origin>
+	</termsource>
+(XML Line 000271): possible decimal point: 3.2
+	<termsource status="modified" type="authoritative"><origin bibitemid="ISO7301" type="inline" citeas="ISO 7301:2011"><localityStack><locality type="clause"><referenceFrom>3.2</referenceFrom></locality></localityStack></origin>
+	<modification><p id="_85ac3a85-1e4e-d2ea-3f1f-f2a2dd408cdf">The term “cargo rice” is shown as deprecated, and Note 1 to entry is not included here</p>
+	</modification>
+	</termsource>
+(XML Line 000289): possible decimal point: 3.3
+	<termsource status="identical" type="authoritative"><origin bibitemid="ISO7301" type="inline" citeas="ISO 7301:2011"><localityStack><locality type="clause"><referenceFrom>3.3</referenceFrom></locality></localityStack></origin>
+	</termsource>
+(XML Line 000370): possible decimal point: 3.1
+	<termsource status="identical" type="authoritative"><origin bibitemid="ISO6646" type="inline" citeas="ISO 6646"><localityStack><locality type="clause"><referenceFrom>3.1</referenceFrom></locality></localityStack></origin>
+	</termsource>
+(XML Line 000383): possible decimal point: 3.1
+	<termsource status="identical" type="authoritative"><origin bibitemid="ISO20483" type="inline" citeas="ISO 20483:2013"><localityStack><locality type="clause"><referenceFrom>3.1</referenceFrom></locality></localityStack></origin>
+	</termsource>
+(XML Line 000396): possible decimal point: 3.1
+	<termsource status="identical" type="authoritative"><origin bibitemid="ISO20483" type="inline" citeas="ISO 20483:2013"><localityStack><locality type="clause"><referenceFrom>3.1</referenceFrom></locality></localityStack></origin>
+	</termsource>
+(XML Line 000406): non-terms clauses cannot cross-reference terms clause (figureC-1)
+	<xref target="figureC-1"/>
+(XML Line 000409): possible decimal point: 3.1
+	<termsource status="identical" type="authoritative"><origin bibitemid="ISO14864" type="inline" citeas="ISO 14864:1998"><localityStack><locality type="clause"><referenceFrom>3.1</referenceFrom></locality></localityStack></origin>
+	</termsource>
+(XML Line 000419): possible decimal point: 3.1
+	<termsource status="identical" type="authoritative"><origin bibitemid="ISO14864" type="inline" citeas="ISO 14864:1998"><localityStack><locality type="clause"><referenceFrom>3.1</referenceFrom></locality></localityStack></origin>
+	</termsource>
+(XML Line 000431): possible decimal point: 3.1
+	<termsource status="identical" type="authoritative"><origin bibitemid="ISO14864" type="inline" citeas="ISO 14864:1998"><localityStack><locality type="clause"><referenceFrom>3.1</referenceFrom></locality></localityStack></origin>
+	</termsource>
+(XML Line 000515): Footnote may contain requirement: The maximum permissible mass fraction of defects shall be determined with respect to the mass fraction obtained after milling
+	<fn reference="c"><p id="_b2f17ac1-e4e7-83c4-3688-d7dd59547fc5">The maximum permissible mass fraction of defects shall be determined with respect to the mass fraction obtained after milling.</p>
+	</fn>
+(XML Line 000518): Footnote may contain requirement: The maximum permissible mass fraction of defects shall be determined with respect to the mass fraction obtained after milling
+	<fn reference="c"><p id="_8987a78f-a808-c6ab-8ff7-037f9a2a5596">The maximum permissible mass fraction of defects shall be determined with respect to the mass fraction obtained after milling.</p>
+	</fn>
+(XML Line 000526): Use 'either x or y, or both': and/or
+	<td valign="top" align="left">Immature and/or malformed kernels</td>
+(XML Line 000532): Footnote may contain requirement: The maximum permissible mass fraction of defects shall be determined with respect to the mass fraction obtained after milling
+	<fn reference="c"><p id="_3af0e2e2-4292-76bb-6c74-1592c215c8d7">The maximum permissible mass fraction of defects shall be determined with respect to the mass fraction obtained after milling.</p>
+	</fn>
+(XML Line 000540): Footnote may contain requirement: The maximum permissible mass fraction of defects shall be determined with respect to the mass fraction obtained after milling
+	<fn reference="c"><p id="_1d823cdc-d3db-5a18-6990-e5b094345e40">The maximum permissible mass fraction of defects shall be determined with respect to the mass fraction obtained after milling.</p>
+	</fn>
+(XML Line 000546): Footnote may contain requirement: The maximum permissible mass fraction of defects shall be determined with respect to the mass fraction obtained after milling
+	<fn reference="c"><p id="_5f1b505d-04c7-7bab-67fe-1fcf544946cc">The maximum permissible mass fraction of defects shall be determined with respect to the mass fraction obtained after milling.</p>
+	</fn>
+(XML Line 000555): Footnote may contain requirement: The maximum permissible mass fraction of defects shall be determined with respect to the mass fraction obtained after milling
+	<fn reference="c"><p id="_497826fb-aefb-829e-9306-df3ea3346bdc">The maximum permissible mass fraction of defects shall be determined with respect to the mass fraction obtained after milling.</p>
+	</fn>
+(XML Line 000558): Footnote may contain requirement: The maximum permissible mass fraction of defects shall be determined with respect to the mass fraction obtained after milling
+	<fn reference="c"><p id="_33ad3edc-78a6-73ff-b632-78c94a8fa6f3">The maximum permissible mass fraction of defects shall be determined with respect to the mass fraction obtained after milling.</p>
+	</fn>
+(XML Line 000579): Scope must occur before Terms and Definitions
+	<clause id="clause5" inline-header="false" obligation="normative">
+	<title>Sampling</title>
+	<p id="_ecf48210-176b-0557-36da-fdab99ef9ad1">Sampling shall be carried out in accordance with <eref type="inline" bibitemid="ISO24333" citeas="ISO 24333:2009"><localityStack><locality type="clause"><referenceFrom>5</referenceFrom></locality></localityStack></eref></p>
+	</clause>
+(XML Line 000584): Scope must occur before Terms and Definitions
+	<clause id="_test_methods" inline-header="false" obligation="normative">
+	<title>Test methods</title>
+	<clause id="_moisture_content" inline-header="false" obligation="normative">
+	<title>Moisture content</title>
+	<p id="_02a8ed06-4d6a-f1fd-2a75-41dece27ee08">Determine the mass fraction of moisture in accordance with the method specified in <eref type="inline" bibitemid="ISO712" citeas="ISO 712"/>.</p>
+(XML Line 000598): number not broken up in threes: 16634
+	<p id="_94c9aef1-5ba5-3731-2307-7194118a2b64">Determine the nitrogen content and crude protein content in accordance with either <eref type="inline" bibitemid="ISO16634" citeas="ISO 16634:--"><localityStack><locality type="clause"><referenceFrom>9</referenceFrom></locality></localityStack></eref><fn reference="2"><p id="_56142783-d3dd-b8a7-7b9f-01ba97018fbf">Under preparation. (Stage at the time of publication ISO/DIS 16634)</p></fn>, or <eref type="inline" bibitemid="ISO20483" citeas="ISO 20483:2013"/>. For details on the determination of protein content using the Kjeldahl method, see Reference <eref type="inline" bibitemid="ref12" citeas="[10]"/> in the Bibliography. For details concerning the use of the Dumas method, see References <eref type="inline" bibitemid="ref10" citeas="[15]"/> and <eref type="inline" bibitemid="ref16" citeas="[16]"/>.</p>
+(XML Line 000598): undated reference ISO 16634:-- should not contain specific elements
+	<eref type="inline" bibitemid="ISO16634" citeas="ISO 16634:--">
+	  <localityStack>
+	    <locality type="clause">
+	      <referenceFrom>9</referenceFrom>
+	    </locality>
+(XML Line 000657): Scope must occur before Terms and Definitions
+	<clause id="clause7" inline-header="false" obligation="normative">
+	<title>Test report</title>
+	<p id="_4f593d90-6ec3-7a1c-8e16-5ae57556fbab">For each test method, the test report shall specify the following:</p>
+	
+	<ol id="_c147e9c8-f45f-6dcc-84ca-3c909e7259ad"><li><p id="_066ab5ab-0ef6-e712-95e8-e425af7548b0">all information necessary for the complete identification of the sample;</p>
+(XML Line 000680): Scope must occur before Terms and Definitions
+	<clause id="_packaging" inline-header="false" obligation="normative">
+	<title>Packaging</title>
+	<p id="_6a8fb8da-d57a-ac49-0ff0-b53ba012e820">The packaging shall not transmit any odour or flavour to the product and shall not contain substances which may damage the product or constitute a health risk.</p>
+	
+	<p id="_5fa48301-6dd3-f1ca-05cc-66a6e7511fe0">If bags are used, they shall comply with the requirements of <eref type="inline" bibitemid="ISO8351-1" citeas="ISO 8351-1:1994"><localityStack><locality type="clause"><referenceFrom>9</referenceFrom></locality></localityStack></eref>, or <eref type="inline" bibitemid="ISO8351-2" citeas="ISO 8351-2"/>, as appropriate.</p>
+(XML Line 000687): Scope must occur before Terms and Definitions
+	<clause id="_marking" inline-header="false" obligation="normative">
+	<title>Marking</title>
+	<p id="_9b7eda82-ec13-1a0b-600a-4de3ecfc042c">The packages shall be marked or labelled as required by the country of destination.</p>
+	</clause>
+(XML Line 000699): Hanging paragraph in clause
+	<clause id="_apparatus" inline-header="false" obligation="normative">
+	<title>Apparatus</title>
+	<p id="_7323d17c-5102-9630-0b03-7ad28d0de155">The usual laboratory apparatus and, in particular, the following.</p>
+	
+	<clause id="AnnexA-2-1" inline-header="true" obligation="normative">
+(XML Line 000714): No full stop at end of title or caption: Tweezers.
+	<title>Tweezers.</title>
+(XML Line 000718): No full stop at end of title or caption: Scalpel.
+	<title>Scalpel.</title>
+(XML Line 000722): No full stop at end of title or caption: Paintbrush.
+	<title>Paintbrush.</title>
+(XML Line 000738): 'see clause5' is pointing to a normative section
+	<xref target="clause5"/>
+(XML Line 000795): Hanging paragraph in clause
+	<clause id="_apparatus_2" inline-header="false" obligation="informative">
+	<title>Apparatus</title>
+	<p id="_48c5ea66-0b56-9ee5-d7a5-0b8fba367403">The usual laboratory apparatus and, in particular, the following.</p>
+	
+	<clause id="AnnexB-2-1" inline-header="true" obligation="informative">
+(XML Line 000816): possible decimal point: 0.020
+	<p id="_acf89ed3-99f8-29f8-ad0c-c75394348545">with long rounded apertures of (1 mm <stem type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable><mtr><mtd><mrow><mo>+</mo><mn>0.02</mn></mrow></mtd></mtr><mtr><mtd><mn>0</mn></mtd></mtr></mtable></math></stem> mm) × (20 mm <stem type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable><mtr><mtd><mrow><mo>+</mo><mn>2</mn></mrow></mtd></mtr><mtr><mtd><mrow><mo>−</mo><mn>1</mn></mrow></mtd></mtr></mtable></math></stem> mm).</p>
+(XML Line 000820): No full stop at end of title or caption: Stirrer rod.
+	<title>Stirrer rod.</title>
+(XML Line 000824): No full stop at end of title or caption: Tweezers or forceps.
+	<title>Tweezers or forceps.</title>
+(XML Line 000828): No full stop at end of title or caption: Tissue paper.
+	<title>Tissue paper.</title>
+(XML Line 000832): Hanging paragraph in clause
+	<clause id="_reagents" inline-header="false" obligation="informative">
+	<title>Reagents</title>
+	<admonition id="_00c1d458-e1cf-844a-2a60-52d702dca19b" type="warning"><p id="_f4d87e69-37e9-5ce4-013d-bfbd80e97759">Direct contact of iodine with skin can cause lesions so care should be taken in handling iodine. Iodine vapour is very irritating to eyes and mucous membranes.</p>
+	</admonition>
+	<clause id="AnnexB-3-1" inline-header="true" obligation="informative">
+
+
+== Metanorma XML Syntax
+
+(XML Line 000057:22): element "license-statement" not allowed here; expected the element end-tag or element "feedback-statement"
+(XML Line 000518:304): element "fn" not allowed here; expected the element end-tag, text or element "add", "bookmark", "br", "concept", "del", "em", "eref", "hr", "image", "index", "index-xref", "keyword", "link", "note", "pagebreak", "ruby", "smallcap", "span", "stem", "strike", "strong", "sub", "sup", "svg", "tt", "underline" or "xref"
+(XML Line 001286:35): element "docidentifier" not allowed yet; missing required element "title"
+(XML Line 001289:35): element "docidentifier" not allowed yet; missing required element "title"
+(XML Line 001292:35): element "docidentifier" not allowed yet; missing required element "title"
+(XML Line 001295:35): element "docidentifier" not allowed yet; missing required element "title"
+(XML Line 001298:35): element "docidentifier" not allowed yet; missing required element "title"
+(XML Line 001301:35): element "docidentifier" not allowed yet; missing required element "title"
+(XML Line 001304:35): element "docidentifier" not allowed yet; missing required element "title"

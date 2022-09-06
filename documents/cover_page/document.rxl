@@ -1,0 +1,23 @@
+<bibdata type="standard">
+
+
+
+
+
+<docidentifier type="ISO">IEC 324 ED 1</docidentifier><docidentifier type="iso-tc">104/864/FDIS</docidentifier><docnumber>324</docnumber><date type="unchanged"><on>2020-02-01</on></date><date type="vote-ended"><on>2020-01-01</on></date><contributor><role type="author"/><organization>
+<name>International Electrotechnical Commission</name>
+<abbreviation>IEC</abbreviation></organization></contributor><contributor><role type="publisher"/><organization>
+<name>International Electrotechnical Commission</name>
+<abbreviation>IEC</abbreviation></organization></contributor><language>en</language><script>Latn</script><status><stage abbreviation="PPUB">60</stage><substage abbreviation="PPUB">60</substage></status><copyright><from>2022</from><owner><organization>
+<name>International Electrotechnical Commission</name>
+<abbreviation>IEC</abbreviation></organization></owner></copyright><relation type="obsoletes"><bibitem>
+<title>--</title>
+<docidentifier>104/820/CDV</docidentifier></bibitem>
+</relation><relation type="obsoletes"><bibitem>
+<title>--</title>
+<docidentifier>104/852A/RVC</docidentifier></bibitem>
+</relation><ext><doctype>international-standard</doctype><horizontal>true</horizontal><function>emc</function><editorialgroup><agency>IEC</agency><technical-committee number="TC 3" type="TC">Documentation, graphical symbols and representations of technical information</technical-committee><subcommittee number="SC 3C" type="SC">Graphical symbols for use on equipment</subcommittee><secretariat>Geneva</secretariat></editorialgroup><structuredidentifier><project-number>IEC 324</project-number></structuredidentifier><stagename>International standard</stagename><cen-processing>true</cen-processing><secretary>Philippe Metzger</secretary><interest-to-committees>TC 7, TC 8</interest-to-committees><tc-sc-officers-note><p id="_cfa6d3dd-9301-43fe-1e9e-268c6e4dd68c">This FDIS is the result of the discussion between the IEC SC21A experts WG 3 during the meeting held in
+Chicago (USA) on April 9th</p>
+
+<p id="_0ca6dcfb-c5f7-8336-1439-ad1e46e8d09f">This document is also of interest for ISO/ TC114/ WG1 Requirements for Watch batteries</p>
+</tc-sc-officers-note></ext></bibdata>

@@ -1,0 +1,21 @@
+<bibdata type="standard">
+<title language="en" format="text/plain" type="main">Standardized product ontology register and transfer by data parcels — Web service interface for data parcels</title>
+
+<title language="en" format="text/plain" type="title-main">Standardized product ontology register and transfer by data parcels</title>
+
+<title language="en" format="text/plain" type="title-part">Web service interface for data parcels</title>
+
+
+
+<title language="fr" format="text/plain" type="main">Registre d’ontologies de produits normalisés et transfert par parcelles de données — Interface de service Web pour paquets de données</title>
+
+<title language="fr" format="text/plain" type="title-main">Registre d’ontologies de produits normalisés et transfert par parcelles de données</title>
+
+<title language="fr" format="text/plain" type="title-part">Interface de service Web pour paquets de données</title>
+<docidentifier type="ISO">IEC/2PWI 99999-8-1 ED 1</docidentifier><docidentifier type="iso-tc">9999</docidentifier><docnumber>99999</docnumber><date type="published"><on>2018-10-14</on></date><date type="circulated"><on>2018-10-04</on></date><date type="unchanged"><on>2039</on></date><contributor><role type="author"/><organization>
+<name>International Electrotechnical Commission</name>
+<abbreviation>IEC</abbreviation></organization></contributor><contributor><role type="publisher"/><organization>
+<name>International Electrotechnical Commission</name>
+<abbreviation>IEC</abbreviation></organization></contributor><edition>1</edition><version><revision-date>2029-02-28</revision-date></version><language>en</language><script>Latn</script><status><stage abbreviation="PWI">00</stage><substage abbreviation="PWI">00</substage><iteration>2</iteration></status><copyright><from>2029</from><owner><organization>
+<name>International Electrotechnical Commission</name>
+<abbreviation>IEC</abbreviation></organization></owner></copyright><ext><doctype>international-standard</doctype><horizontal>false</horizontal><function>environment</function><editorialgroup><agency>IEC</agency><technical-committee number="3" type="TC">Information structures and elements, identification and marking principles, documentation and graphical symbols</technical-committee><subcommittee number="3D" type="SC">Product properties and classes and their identification</subcommittee><workgroup number="62656-8" type="PT">Model-extension and interface for IEC CDD</workgroup></editorialgroup><ics><code>11.060</code><text>Dentistry</text></ics><structuredidentifier><project-number part="8" subpart="1">IEC 99999</project-number></structuredidentifier><stagename>Preliminary work item</stagename></ext></bibdata>
